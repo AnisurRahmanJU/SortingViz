@@ -1,2 +1,2 @@
 # SortingViz
-Sorring Algorithm Visualizer
+Sorting Algorithm Visualizer
